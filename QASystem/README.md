@@ -1,2 +1,0 @@
-# LegalWise
-LegalWise
