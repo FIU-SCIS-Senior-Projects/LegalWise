@@ -1,5 +1,10 @@
 README.txt
 
+LegalWise
+LegalWise is a user-friendly web application that answers simple legal questions by analysing 
+the question and retrieving related documents associated with the answer. 
+
+
 Code
 -------
 The Code Directory includes two Directories. 
